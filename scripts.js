@@ -74,9 +74,9 @@
                     title: "معلمة خصوصية",
                     description: "موقع خصوصي لمعلمة خصوصية في اللغة الانجليزية ، يتيح للطلاب التواصل معها وحجز الدروس بسهولة. يتميز بتصميم بسيط وجذاب، ويحتوي على معلومات عن المعلمة، الدروس المتاحة، وآلية الحجز.",
                     images: [
-                        "tutor.webp",
-                        "tutor4.webp",
-                        "tutor2.webp"
+                        "images/tutor.webp",
+                        "images/tutor4.webp",
+                        "images/tutor2.webp"
                     ],
                     technologies: [
                         { name: "HTML", icon: "fab fa-html5" },
