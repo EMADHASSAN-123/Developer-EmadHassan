@@ -85,8 +85,9 @@
                         { name: "react", icon: "fab fa-react" }
 
                     ],
-                    liveLink: "#",
-                    codeLink: "#"
+
+                    liveLink: "https://deft-starlight-9d689a.netlify.app/",
+                    codeLink: "https://github.com/EMADHASSAN-123/Tutor"
                 },
 
                 "3": {
@@ -106,7 +107,7 @@
                         { name: " Raspberry pi", icon: "fab fa-Raspberry" }
                     ],
                     liveLink: "#",
-                    codeLink: "#"
+                    codeLink: "https://github.com/EMADHASSAN-123/Smart-monitoring-system-for-fuel-stations"
                 },
 
                 "4": {
